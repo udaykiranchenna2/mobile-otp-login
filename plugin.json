@@ -1,0 +1,9 @@
+{
+    "name": "Mobile OTP Login",
+    "author": "Your Name",
+    "version": "1.0.0",
+    "description": "Mobile OTP Login plugin for Shofy eCommerce",
+    "namespace": "Botble\\MobileOtpLogin\\",
+    "provider": "Botble\\MobileOtpLogin\\Providers\\MobileOtpLoginServiceProvider",
+    "autoload": "psr-4"
+} 

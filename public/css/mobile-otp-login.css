@@ -1,0 +1,46 @@
+.mobile-otp-login-options {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
+
+.or-divider {
+    text-align: center;
+    margin: 20px 0;
+    position: relative;
+}
+
+.or-divider span {
+    background: #fff;
+    padding: 0 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.or-divider:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: #eee;
+    z-index: 0;
+}
+
+.otp-login-form {
+    margin-top: 20px;
+}
+
+.otp-login-form .form-group {
+    margin-bottom: 15px;
+}
+
+.otp-login-form .btn {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#verify-otp-form {
+    margin-top: 20px;
+} 
